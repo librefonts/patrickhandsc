@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=3 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="2"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=4 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="CAT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="3"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="4"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="5"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="3">
+            <LangSysTag value="TRK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="6"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=7 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="2">
+            <Glyph value="A"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="Abreveacute"/>
+            <Glyph value="Abrevedotbelow"/>
+            <Glyph value="Abrevegrave"/>
+            <Glyph value="Abrevehookabove"/>
+            <Glyph value="Abrevetilde"/>
+            <Glyph value="Acaron"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Acircumflexacute"/>
+            <Glyph value="Acircumflexdotbelow"/>
+            <Glyph value="Acircumflexgrave"/>
+            <Glyph value="Acircumflexhookabove"/>
+            <Glyph value="Acircumflextilde"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Adotbelow"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Ahookabove"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="Aring"/>
+            <Glyph value="Aringacute"/>
+            <Glyph value="Aringbelow"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="AE"/>
+            <Glyph value="AEacute"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="Cdotaccent"/>
+            <Glyph value="D"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="E"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ebreve"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Ecircumflexacute"/>
+            <Glyph value="Ecircumflexdotbelow"/>
+            <Glyph value="Ecircumflexgrave"/>
+            <Glyph value="Ecircumflexhookabove"/>
+            <Glyph value="Ecircumflextilde"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="Edotbelow"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Ehookabove"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="Etilde"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="Gcommaaccent"/>
+            <Glyph value="Gdotaccent"/>
+            <Glyph value="H"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="I"/>
+            <Glyph value="IJ"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Ibreve"/>
+            <Glyph value="Icaron"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="Idotbelow"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Ihookabove"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="J"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="K"/>
+            <Glyph value="Kcommaaccent"/>
+            <Glyph value="L"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="Lcommaaccent"/>
+            <Glyph value="Ldot"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="M"/>
+            <Glyph value="Macute"/>
+            <Glyph value="N"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="Ncommaaccent"/>
+            <Glyph value="Eng"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="O"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Obreve"/>
+            <Glyph value="Ocaron"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Ocircumflexacute"/>
+            <Glyph value="Ocircumflexdotbelow"/>
+            <Glyph value="Ocircumflexgrave"/>
+            <Glyph value="Ocircumflexhookabove"/>
+            <Glyph value="Ocircumflextilde"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="Odotbelow"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Ohookabove"/>
+            <Glyph value="Ohorn"/>
+            <Glyph value="Ohornacute"/>
+            <Glyph value="Ohorndotbelow"/>
+            <Glyph value="Ohorngrave"/>
+            <Glyph value="Ohornhookabove"/>
+            <Glyph value="Ohorntilde"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="Oslashacute"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="OE"/>
+            <Glyph value="P"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="Racute"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="Rcommaaccent"/>
+            <Glyph value="S"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="Scommaaccent"/>
+            <Glyph value="T"/>
+            <Glyph value="Tbar"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="Tcedilla"/>
+            <Glyph value="uni021A"/>
+            <Glyph value="U"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="Ucaron"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Udotbelow"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uhookabove"/>
+            <Glyph value="Uhorn"/>
+            <Glyph value="Uhornacute"/>
+            <Glyph value="Uhorndotbelow"/>
+            <Glyph value="Uhorngrave"/>
+            <Glyph value="Uhornhookabove"/>
+            <Glyph value="Uhorntilde"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="Uring"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="V"/>
+            <Glyph value="W"/>
+            <Glyph value="Wacute"/>
+            <Glyph value="Wcircumflex"/>
+            <Glyph value="Wdieresis"/>
+            <Glyph value="Wgrave"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Ycircumflex"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Ydotbelow"/>
+            <Glyph value="Ygrave"/>
+            <Glyph value="Yhookabove"/>
+            <Glyph value="Ytilde"/>
+            <Glyph value="Z"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="Omega"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="5" XAdvance="10"/>
+        </SinglePos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>
