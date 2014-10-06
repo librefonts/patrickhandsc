@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [PatrickHandSC-Regular.ttf.ttx, src/PatrickHandSC-Regular_prettfautohint.ttf.ttx,
+  src/PatrickHandSC-Regular.otf.ttx, src/PatrickHandSC-Regular_prettfautohint.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

@@ -1,0 +1,33 @@
+{
+  "name": "Patrick Hand SC",
+  "designer": "Patrick Wagesreiter",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 54194,
+  "fonts": [
+    {
+      "name": "Patrick Hand SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PatrickHandSC-Regular_prettfautohint.ttf",
+      "postScriptName": "PatrickHandSC-Regular",
+      "fullName": "Patrick Hand SC",
+      "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    },
+    {
+      "name": "Patrick Hand SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PatrickHandSC-Regular.ttf",
+      "postScriptName": "PatrickHandSC-Regular",
+      "fullName": "Patrick Hand SC",
+      "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-02-27"
+}
